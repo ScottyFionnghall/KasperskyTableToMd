@@ -1,2 +1,2 @@
 # KasperskyTableToMd
-Парсер HTML таблиц отчётов об оборудовании Касперского в Markdown
+parser that turns HTML pages from kaspersky hardware report into markdown table (useless project)
